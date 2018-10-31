@@ -6,6 +6,9 @@ public class Main {
 		System.out.println("I'm partner 1, I wrote this statement");
 		
 		System.out.println("I'm partner 2, I wrote this Statement");
+		
+		System.out.println("Kevin - Change #1");
+
 	}
 
 }
